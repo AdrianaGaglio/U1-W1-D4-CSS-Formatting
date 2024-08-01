@@ -241,6 +241,10 @@ button {
   margin-bottom: 1.8rem;
 }
 
+.related:last-child {
+  margin-bottom: 0;
+}
+
 .newsletter {
   margin-bottom: 2rem;
 }
